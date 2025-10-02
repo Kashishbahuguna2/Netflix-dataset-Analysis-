@@ -17,6 +17,7 @@ The goal is to analyze content trends, genres, ratings, and country distribution
   - Pie Chart (Genre Distribution)
   - Line Plot (Releases per Year)
   - Country-wise Netflix content
+  - scatter plot 
 
 ---
 
@@ -43,6 +44,7 @@ Majority of titles are [Movies/Series].
 
 Netflix content has grown significantly since [earliest_year].
 
+---
 ✨ Future Work
 
 Sentiment analysis of descriptions
